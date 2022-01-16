@@ -1,9 +1,10 @@
-# wordlists for the mari wordle
+# the mari wordle
+
+Mari version of Wordle. Play at https://mari-wordle.anvil.app/, the English original: https://www.powerlanguage.co.uk/wordle/
 
 ## Contents:
 
-- wordlists are a courtesy of Jeremy Bradley, src: https://www.univie.ac.at/maridict/site-2014/book.php?int=0
-- play at: https://mari-wordle.anvil.app/
+- all.txt and targets.txt are the input wordlists and are a courtesy of Jeremy Bradley, src: https://www.univie.ac.at/maridict/site-2014/book.php?int=0
 - mutle.py: contains the backend code of the anvil web app.
 
 ## Todo:
