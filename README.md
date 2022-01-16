@@ -9,11 +9,12 @@
 ## Todo:
 
 - return a 5\*5 grid of coloured buttons with letters in them instead of strings and heart-emojis
-- colour keyboard green, yellow and gray after each guess
+- colour keyboard green, yellow and grey after each guess
 - Store infos about date - IP address - guesses in a pastebin and allow only one access per day
 - only one word per day, reset at midnight Mari El time zone
 - improve design
 - add share button
+- find out how to unittest anvil apps
 
 ## Notes:
 
